@@ -4,8 +4,7 @@
 
 ## I'm a Photographer and Developer!
 
-- 📘 I’m currently learning python
-- 
+- 📘 I’m currently learning python 
 
 ### Connect with me:
 
