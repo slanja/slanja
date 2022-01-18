@@ -1,7 +1,5 @@
 ### Hi , I'm Jan Slaný ✌
 
-[![Website]()](Website)
-
 ## I'm a Photographer and Developer!
 
 - 📘 I’m currently learning python 
