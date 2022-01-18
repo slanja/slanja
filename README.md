@@ -3,6 +3,7 @@
 ## I'm a Photographer and Developer!
 
 - 📘 I’m currently learning python 
+- 💻 My current goal is to finish my project "resistors"
 
 ### My social media:
 
