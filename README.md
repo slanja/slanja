@@ -3,7 +3,7 @@
 ## I'm a Photographer and Developer!
 
 - 📘 I’m currently learning python 
-- 💻 My current goal is enjoy coding
+- 💻 I am currently enjoing code
 
 ### My social media:
 
