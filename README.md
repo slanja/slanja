@@ -2,8 +2,11 @@
 
 ## I'm a Photographer and Developer!
 
-- 📘 I’m currently learning python 
+- 📕 I'm currently learning java
 - 💻I am currently improving my coding skill
+
+### Languages I know
+- 📘 Python
 
 ### My social media:
 
