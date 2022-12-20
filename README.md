@@ -7,6 +7,7 @@
 
 ### Languages I know
 - 📘 Python
+- 📕 Java
 
 ### My social media:
 
