@@ -11,5 +11,10 @@
 [//]: <> (GitHub stats and most used languages)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slanja&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slanja&layout=donut&theme=dark)](https://github.com/slanja?tab=repositories)
 
+<details>
+<summar>---</summary>
+
+</details>
+
 [//]: <> (Listening now on spotify)
 ![](https://readme-now-playing.vercel.app/now-playing/q?uid=v75teyo2nhaf35dlgbdlvs8a0)
