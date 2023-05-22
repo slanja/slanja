@@ -11,6 +11,12 @@
 [//]: <> (GitHub stats and most used languages)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slanja&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slanja&layout=donut&theme=dark)](https://github.com/slanja?tab=repositories)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="snake-light.svg" />
+  <img alt="github-snake" src="snake-light.svg" />
+</picture>
+
 <details>
 <summar>---</summary>
 
