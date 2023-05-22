@@ -17,6 +17,3 @@
   <source media="(prefers-color-scheme: light)" srcset="snake-light.svg" />
   <img alt="github-snake" src="snake-dark.svg" />
 </picture>
-
-[//]: <> (Listening now on spotify)
-[//]: <> (![](https://readme-now-playing.vercel.app/now-playing/q?uid=v75teyo2nhaf35dlgbdlvs8a0))
