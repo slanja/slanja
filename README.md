@@ -19,4 +19,4 @@
 </picture>
 
 [//]: <> (Listening now on spotify)
-![](https://readme-now-playing.vercel.app/now-playing/q?uid=v75teyo2nhaf35dlgbdlvs8a0)
+[//]: <> (![](https://readme-now-playing.vercel.app/now-playing/q?uid=v75teyo2nhaf35dlgbdlvs8a0))
