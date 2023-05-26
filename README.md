@@ -17,3 +17,8 @@
   <source media="(prefers-color-scheme: light)" srcset="snake-light.svg" />
   <img alt="github-snake" src="snake-dark.svg" />
 </picture>
+
+<details>
+<img align="center" alt="hour-of-code" src="hour_of_code.jpg"/>
+
+</details>
