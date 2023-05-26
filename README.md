@@ -19,6 +19,6 @@
 </picture>
 
 <details>
-<img align="center" alt="hour-of-code" src="hour_of_code.jpg"/>
+<img align="center" alt="hour-of-code" src="certificates/hour_of_code.jpg"/>
 
 </details>
