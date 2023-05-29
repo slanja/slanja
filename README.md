@@ -18,8 +18,3 @@
   <img alt="github-snake" src="snake-dark.svg" />
 </picture>
 
-<details>
-  <summary>Certificates</summary>
-    <img align="center" alt="hour-of-code" src="certificates/hour_of_code.jpg"/>
-
-</details>
