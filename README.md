@@ -8,8 +8,6 @@
 
 <br>
 
-![](./profile-3d-contrib/profile-night-green.svg)
-
 [//]: <> (GitHub stats and most used languages)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slanja&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slanja&layout=donut&theme=dark)](https://github.com/slanja?tab=repositories)
 
