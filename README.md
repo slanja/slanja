@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="reconstruction.png"  />
+  <img height="360" width="1280" src="reconstruction.png"  />
 </div>
 
 ###
