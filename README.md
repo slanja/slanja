@@ -44,7 +44,8 @@
 
 ###
 
-<p align="left">- 💻 learning rust<br>- 🎄 advent of code 2023</p>
+- 💻 learning rust    
+- 🎄 advent of code 2023    
 
 ###
 
