@@ -47,7 +47,7 @@
 
 ###
 
-- 💻 learning rust
+- 💻 learning ~rust~ C
 - 🐧 customizing my arch linux
 - ~🎄 advent of code 2023~    
 
