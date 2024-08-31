@@ -49,7 +49,8 @@
 
 - 💻 learning ~rust~ C
 - 🐧 customizing my arch linux
-- ~🎄 advent of code 2023~    
+- ~🎄 advent of code 2023~
+- 🛠️ learn 3D modeling
 
 ###
 
