@@ -1,6 +1,6 @@
 <div align="center">
   <!-- místo pro tvou postavičku/OC -->
-  <img src="your_OC.png" alt="<3" height="150" />
+  <img src="redpanda.svg" alt="<3" height="150" />
 </div>
 
 ### 
