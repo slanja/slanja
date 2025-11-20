@@ -48,7 +48,7 @@ I’m a developer who enjoys learning by creating, experimenting, and improving 
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
 </a>
 <a href="https://discord.com/users/530801309461250061" target="_blank">
-  <img src="https://dcbadge.vercel.app/api/shield/530801309461250061?theme=discord-inverted" height="35" />
+  <img src="https://dcbadge.limes.pink/api/shield/530801309461250061?theme=discord-inverted" height="35" />
 </a>
 </div>
 
