@@ -1,6 +1,6 @@
 <div align="center">
   <!-- místo pro tvou postavičku/OC -->
-  <img src="slanja.png" alt="<3" height="150" />
+  <img src="slanja.png" alt="<3" height="250" />
 </div>
 
 ### 
