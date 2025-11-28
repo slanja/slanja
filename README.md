@@ -1,6 +1,6 @@
 <div align="center">
   <!-- místo pro tvou postavičku/OC -->
-  <img src="reading.png" alt="<3" height="250" />
+  <img src="chibi.png" alt="<3" height="250" />
 </div>
 
 ### 
