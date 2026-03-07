@@ -6,8 +6,7 @@
 
 # Hi, I'm Honza 👋
 <p align="left">
-I enjoy building things, exploring new ideas, and learning through projects.<br>
-I’m a developer who enjoys learning by creating, experimenting, and improving with every project.
+I’m a developer who lives by the 'learn-by-building' philosophy. I enjoy exploring new ideas and turning them into reality through constant experimentation and iterative improvement. Every project is an opportunity for me to learn something new and push my skills further.
 </p>
 
 ### 
