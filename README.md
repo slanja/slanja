@@ -52,10 +52,3 @@ I’m a developer who lives by the 'learn-by-building' philosophy. I enjoy explo
   <img src="https://dcbadge.limes.pink/api/shield/530801309461250061?theme=discord-inverted" height="35" />
 </a>
 </div>
-
-
-### 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/slanja/slanja/output/snake.svg" alt="Snake animation" />
-</div>
