@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="chibi.png" alt="<3" height="250" />
+  <img src="banner.png" alt="<3" height="230" />
 </div>
 
 ### 
